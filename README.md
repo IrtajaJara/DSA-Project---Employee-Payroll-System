@@ -436,6 +436,7 @@ Total: 4
 Enter choice: 6
 
 ===== SORTED BY SALARY (Low to High) =====
+
 ID: 1002 | Name: Sara | Dept: HR | Salary: 65000.0 | Position: Manager
 
 ID: 1001 | Name: Musa | Dept: IT | Salary: 75000.0 | Position: Engineer
