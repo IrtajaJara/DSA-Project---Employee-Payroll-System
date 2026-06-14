@@ -422,9 +422,13 @@ Enter choice: 7
 ===== ALL EMPLOYEES =====
 
 ID: 1001 | Name: Musa | Dept: IT | Salary: 75000.0 | Position: Engineer
+
 ID: 1002 | Name: Sara | Dept: HR | Salary: 65000.0 | Position: Manager
+
 ID: 1003 | Name: Fareed | Dept: Finance | Salary: 85000.0 | Position: Accountant
+
 ID: 1004 | Name: Irtaja | Dept: IT | Salary: 150000.0 | Position: Manager
+
 Total: 4
 
 ========== MENU ==========
@@ -433,8 +437,11 @@ Enter choice: 6
 
 ===== SORTED BY SALARY (Low to High) =====
 ID: 1002 | Name: Sara | Dept: HR | Salary: 65000.0 | Position: Manager
+
 ID: 1001 | Name: Musa | Dept: IT | Salary: 75000.0 | Position: Engineer
+
 ID: 1003 | Name: Fareed | Dept: Finance | Salary: 85000.0 | Position: Accountant
+
 ID: 1004 | Name: Irtaja | Dept: IT | Salary: 150000.0 | Position: Manager
 
 ========== MENU ==========
