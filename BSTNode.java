@@ -1,9 +1,12 @@
 public class BSTNode {
     Employee emp;
-    BSTNode left, right;
+    BSTNode left;
+    BSTNode right;
 
     BSTNode(Employee emp) {
         this.emp = emp;
-        left = right = null;
+        left =  null;
+        right = null;
     }
+
 }

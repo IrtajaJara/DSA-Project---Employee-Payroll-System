@@ -7,6 +7,7 @@ public class SalaryBST {
         root = insertRec(root, emp);
     }
 
+
     BSTNode insertRec(BSTNode root, Employee emp) {
         if (root == null) {
             return new BSTNode(emp);}

@@ -6,4 +6,5 @@ public class Action {
         this.type = type;
         this.employee = employee;
     }
+
 }

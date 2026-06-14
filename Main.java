@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 import java.util.ArrayList;
 class Main{
-
+    
 
     static HashMap<Integer, Employee> map = new HashMap<>();
     static StackAction stack = new StackAction();

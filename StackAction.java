@@ -15,4 +15,5 @@ public class StackAction {
     boolean isEmpty() {
         return list.isEmpty();
     }
+
 }
