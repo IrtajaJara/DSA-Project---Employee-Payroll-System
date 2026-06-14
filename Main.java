@@ -1,6 +1,8 @@
 import java.util.HashMap;
 import java.util.Scanner;
 import java.util.ArrayList;
+class Main{
+
 
     static HashMap<Integer, Employee> map = new HashMap<>();
     static StackAction stack = new StackAction();
@@ -8,7 +10,7 @@ import java.util.ArrayList;
     static int nextId = 1001;
     static Scanner sc = new Scanner(System.in);
 
-    void main(String[] args) {
+   public static void main(String[] args) {
 
         System.out.println("\n==========================================");
         System.out.println("   EMPLOYEE PAYROLL SYSTEM");
@@ -164,4 +166,4 @@ import java.util.ArrayList;
             System.out.println(e);
         }
         System.out.println("Total: " + map.size());
-    }
+    }}
